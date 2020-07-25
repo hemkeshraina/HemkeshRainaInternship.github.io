@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.findlaw.com	TRUE	/	FALSE	1999999999	__cfduid	dba95e4596a06c9bb79bb5e224de1e96a1595690530
-www.findlaw.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-.findlawimages.com	TRUE	/	FALSE	1999999999	__cfduid	d08f0a16f26583ec7510eed23b05028e91595690530
-www.findlawimages.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-
